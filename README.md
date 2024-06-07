@@ -1,4 +1,4 @@
-# flutter_test_application_1
+# Flutterfire Coffee
 
 A new Flutter project.
 
